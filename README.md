@@ -1,4 +1,4 @@
-# Fresh 🍋
+# Fresh! 🍋
 
 [![Pub](https://img.shields.io/pub/v/fresh.svg)](https://pub.dev/packages/fresh)
 [![build](https://github.com/felangel/fresh/workflows/build/badge.svg)](https://github.com/felangel/fresh/actions)
